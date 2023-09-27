@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to RAKSHAK</title>
+</head>
+<body>
+<img src="C:\Users\Srijan\Desktop\logo.jpg" alt="RAKSHAK">
+
+    <header>
+        <h1>Welcome to RAKSHAK</h1>
+<img src="C:\Users\Srijan\Desktop\login_edited.jpg" alt="RAKSHAK">
+<img src="C:\Users\Srijan\Desktop\homepg_edited.jpg" alt="RAKSHAK">
+
+       <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to RAKSHAK. Our software dedicated to Natural Disaster Management.The basic idea of solution is to create an app which finds the places where the disasters occur or are occurring. It will find the places, mark them as red zones (the place where the disaster has occurred), create a yellow zone (which is the area of place where the aftershocks might happen and the disaster might impact the places), and provide information about the green zones (where the people can be safe)</p>
+
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Provide alerts about disaster nearby your location </li>
+            <li>Provide rescue team ASAP</li>
+            <li>AI Powered chat bot</li>
+            <li>App also contains a donation form through which anyone willing to help can provide donations to specific NGOs which can provide food,shelter,help,etc</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>You can reach us at <a href="mailto:rakshak108@gmail.com">rakshak108@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 RAKSHAK</p>
+    </footer>
+</body>
+</html>
